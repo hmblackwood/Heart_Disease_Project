@@ -2,10 +2,11 @@
 ### Please visit the project file to learn more. 
 https://github.com/hmblackwood/Heart_Disease_Project/blob/main/Heart_Disease_Project.ipynb
 
-Summary:
+Summary:<br>
 Using Scikit-learn, I created three machine learning models that determine whether someone has heart disease based on their other medical factors.
 
-Libraries Used: Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn
+Libraries Used:<br>
+Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn
 
 
 1. Problem:<br>
