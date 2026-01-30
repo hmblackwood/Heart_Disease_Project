@@ -1,5 +1,4 @@
-#🫀The Heart Disease Project 🫀#
-
+# 🫀 Heart Disease Project 🫀
 ### Please visit the project file to learn more. 
 https://github.com/hmblackwood/Heart_Disease_Project/blob/main/Heart_Disease_Project.ipynb
 
