@@ -1,29 +1,31 @@
-🫀The Heart Disease Project 🫀
+#🫀The Heart Disease Project 🫀#
 
-For more information, please visit the project page: https://github.com/hmblackwood/Heart_Disease_Project/blob/main/Heart_Disease_Project.ipynb
+### Please visit the project file to learn more. 
+https://github.com/hmblackwood/Heart_Disease_Project/blob/main/Heart_Disease_Project.ipynb
 
-# Summary:
-- I created three machine learning models that determine whether someone has heart disease based on their other medical factors.
-- Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+Summary:
+Using Scikit-learn, I created three machine learning models that determine whether someone has heart disease based on their other medical factors.
+
+Libraries Used: Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn
 
 
-1. Problem
+1. Problem:
 Given clinical parameters about a patient, can I predict whether or not they have heart disease?
 
 
-2. Data
+2. Data:
 The original data came from the Cleavland data from the UCI Machine Learning Repository.
 https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 
-3. Machine Learning Model
+3. Machine Learning Model:
 - Models used:
   - Logistic regression
   - K Nearest Neighbors
   - Random Forest Classifier
 
 
-4. Evaluation
+4. Evaluation:
 If I can reach 95% accuracy at predicting whether or not a patient has heart disease, I will consider that a success.
 I will evaluate the model using:
 - ROC curve and AUC score
@@ -33,5 +35,5 @@ I will evaluate the model using:
   - Recall
   - F1-score
 
-5. Feature Importance
+5. Feature Importance:
 Which features of the data contributed most to the outcomes of the model?
