@@ -8,23 +8,23 @@ Using Scikit-learn, I created three machine learning models that determine wheth
 Libraries Used: Python libraries used: NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn
 
 
-1. Problem:
+1. Problem:<br>
 Given clinical parameters about a patient, can I predict whether or not they have heart disease?
 
 
-2. Data:
+2. Data:<br>
 The original data came from the Cleavland data from the UCI Machine Learning Repository.
 https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 
-3. Machine Learning Model:
+3. Machine Learning Model:<br>
 - Models used:
   - Logistic regression
   - K Nearest Neighbors
   - Random Forest Classifier
 
 
-4. Evaluation:
+4. Evaluation:<br>
 If I can reach 95% accuracy at predicting whether or not a patient has heart disease, I will consider that a success.
 I will evaluate the model using:
 - ROC curve and AUC score
@@ -34,5 +34,5 @@ I will evaluate the model using:
   - Recall
   - F1-score
 
-5. Feature Importance:
+5. Feature Importance:<br>
 Which features of the data contributed most to the outcomes of the model?
