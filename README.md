@@ -36,4 +36,4 @@ I will evaluate the model using:
   - F1-score
 
 5. Feature Importance:<br>
-Which features of the data contributed most to the outcomes of the model?
+Determine which features of the data contributed most to the outcomes of the model?
